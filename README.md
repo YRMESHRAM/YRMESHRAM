@@ -27,46 +27,50 @@ I enjoy building practical web applications, exploring AI/ML technologies, and s
 
 **Tools:** Git, GitHub, VS Code, Vite, MySQL Workbench
 
----
-
 ## 🚀 Featured Projects
 
-### 1. 📊 FP Project
-A web development project built using HTML and related frontend technologies.
+### 1. 🏫 Campus Connect — Smart Campus Navigation
 
-- 🔗 **GitHub:** [FP_Project](https://github.com/YRMESHRAM/FP_Project)
-- 🌐 **Live Demo:** [View Project](https://yrmeshram.github.io/FP_Project/)
-
-### 2. 🤖 AI Dataset Generation & Labeling Tool
-An AI-powered, browser-based platform for image analysis and automatic dataset labeling.
-
-- **Tech Stack:** React, TypeScript, Vite, TensorFlow.js, MobileNet v2, Tailwind CSS
-- 🔗 **GitHub:** [AI_Dataset_Labeling](https://github.com/YRMESHRAM/AI_Dataset_Labeling)
-
-### 3. 🏫 Campus Connect — Smart Campus Navigation
 A responsive campus navigation application that helps users search for campus departments, faculty cabins, and classrooms.
 
 - **Tech Stack:** React, TypeScript, Vite, CSS
 - 🔗 **GitHub:** [Campus_Connect](https://github.com/YRMESHRAM/Campus_Connect)
 - 🌐 **Live Demo:** [Open Campus Connect](https://campus-connect-am4w.onrender.com/)
 
-### 4. 🏥 Appointment Booking System
-A healthcare application concept for patient registration, doctor appointments, and managing medical history.
+### 2. 💰 Expense Management System — FinTrack
 
-- **Planned Features:** Appointment booking, patient records, doctor access, and prescription information
-- 🔗 **GitHub:** [Appoinment_Booking](https://github.com/YRMESHRAM/Appoinment_Booking)
+A personal finance application for managing expenses and tracking spending.
 
-### 5. 🩺 CampusCare
+- **Features:** Add, edit, and delete expenses; filter expenses by day, week, month, quarter, and year.
+- 🔗 **GitHub:** [expence_managment](https://github.com/YRMESHRAM/expence_managment)
+- 🌐 **Live Demo:** [Open FinTrack](https://fintrack-expense-management.onrender.com/)
+
+### 3. 🩺 CampusCare
+
 A campus-focused project available in my GitHub repositories.
 
 - 🔗 **GitHub:** [campuscare](https://github.com/YRMESHRAM/campuscare)
 
-### 6. 💰 Expense Management System — FinTrack
-A personal finance application for managing expenses and tracking spending.
+### 4. 🤖 AI Dataset Generation & Labeling Tool
 
-- **Features:** Add, edit, and delete expenses; filter expenses by time period; review spending through a user-friendly interface.
-- 🔗 **GitHub:** [expence_managment](https://github.com/YRMESHRAM/expence_managment)
-- 🌐 **Live Demo:** [Open FinTrack](https://fintrack-expense-management.onrender.com/)
+An AI-powered, browser-based platform for image analysis and automatic dataset labeling.
+
+- **Tech Stack:** React, TypeScript, Vite, TensorFlow.js, MobileNet v2, Tailwind CSS
+- 🔗 **GitHub:** [AI_Dataset_Labeling](https://github.com/YRMESHRAM/AI_Dataset_Labeling)
+
+### 5. 🏥 Appointment Booking System
+
+A healthcare application for patient registration, doctor appointments, and medical history management.
+
+- **Planned Features:** Appointment booking, patient records, doctor access, and prescription information.
+- 🔗 **GitHub:** [Appoinment_Booking](https://github.com/YRMESHRAM/Appoinment_Booking)
+
+### 6. 📊 FP Project
+
+A web development project built using HTML and related frontend technologies.
+
+- 🔗 **GitHub:** [FP_Project](https://github.com/YRMESHRAM/FP_Project)
+- 🌐 **Live Demo:** [View Project](https://yrmeshram.github.io/FP_Project/)
 
 ---
 
@@ -77,7 +81,6 @@ A personal finance application for managing expenses and tracking spending.
 | 🎮 AI Tic-Tac-Toe | Tic-Tac-Toe game with AI functionality | [GitHub](https://github.com/YRMESHRAM/AI_tic-tac-toe) |
 | 🔄 Convertify | Unit converter web application | [Live Demo](https://yrmeshram.github.io/Convertify/) |
 | 🎬 Movie Ticket Booking | Movie ticket booking application | [GitHub](https://github.com/YRMESHRAM/Movie_Ticket_Booking) |
-
 
 
 ## 🎯 Current Learning Goals
