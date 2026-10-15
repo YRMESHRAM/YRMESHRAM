@@ -78,17 +78,7 @@ A personal finance application for managing expenses and tracking spending.
 | 🔄 Convertify | Unit converter web application | [Live Demo](https://yrmeshram.github.io/Convertify/) |
 | 🎬 Movie Ticket Booking | Movie ticket booking application | [GitHub](https://github.com/YRMESHRAM/Movie_Ticket_Booking) |
 
----
 
-## 📈 GitHub Overview
-
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=YRMESHRAM&color=blue&style=flat-square)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YRMESHRAM)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YRMESHRAM&layout=compact&theme=github_dark)
-
----
 
 ## 🎯 Current Learning Goals
 
@@ -98,19 +88,12 @@ A personal finance application for managing expenses and tracking spending.
 - Strengthening data structures, algorithms, and problem-solving
 - Writing clean, maintainable, and efficient code
 
----
 
-## 🎮 Hobbies & Interests
-
-🎮 Gaming • 🎵 Listening to Music • 🎬 Watching Movies & Anime • 🏍️ Bike Riding
-
----
 
 ## 🤝 Connect With Me
 
 - 💻 **GitHub:** [@YRMESHRAM](https://github.com/YRMESHRAM)
-- 💼 **LinkedIn:** [Add your LinkedIn profile URL](https://www.linkedin.com/)
-- 📧 **Email:** Add your professional email address
+- 📧 **Email:** myash91@gmail.com
 
 ---
 
