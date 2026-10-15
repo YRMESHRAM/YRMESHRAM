@@ -1,18 +1,117 @@
-## 👋 Hi, I'm Yash Raju Meshram  
+# 👋 Hi, I'm Yash Raju Meshram
 
-🎓 Student | 💻 Full-Stack Web Developer & AIML Enthusiast  
-🔹 Exploring Web Development, AI & Machine Learning  
-🔹 Comfortable with Python, C, C++, Java, HTML, CSS, JavaScript, PHP  
-🔹 Passionate about building practical projects and improving daily
+### 💻 Full-Stack Web Developer | 🎓 CSE (AI & ML) Student | 🤖 AI/ML Enthusiast
 
-🚀 **Learning Goals**
-Full-stack development, modern JS frameworks, backend fundamentals, and ML concepts
+I'm a Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning at **S. B. Jain Institute of Technology, Management & Research, Nagpur**.
 
-🎮 **Hobbies** 
-:Gaming • Listening to music • Watching movies • Bike riding 
+I enjoy building practical web applications, exploring AI/ML technologies, and solving real-world problems through code. I'm continuously learning new technologies and improving my development skills.
 
-📌 **Projects I’m working on / built**
-- AI-Based Tic-Tac-Toe — https://github.com/YRMESHRAM/AI_tic-tac-toe  
-- Convertify (Unit Converter Web App) — https://yrmeshram.github.io/Convertify/  
-- Movie Ticket Booking System — https://github.com/YRMESHRAM/Movie_Ticket_Booking  
-- FP Project — https://yrmeshram.github.io/FP_Project/
+- 🔭 Working on full-stack web applications and AI-powered projects
+- 🌱 Learning modern JavaScript frameworks, backend development, and machine learning
+- 💡 Interested in software development, artificial intelligence, and innovative solutions
+- 🤝 Open to internships, collaborations, and learning opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, C, C++, Java, JavaScript, PHP
+
+**Frontend:** HTML5, CSS3, JavaScript, React.js, TypeScript, Tailwind CSS
+
+**Backend:** Node.js, Express.js, Flask, Django, REST APIs
+
+**Databases:** MongoDB, MySQL, SQL
+
+**AI/ML:** NumPy, Pandas, TensorFlow, Keras, PyTorch, Machine Learning
+
+**Tools:** Git, GitHub, VS Code, Vite, MySQL Workbench
+
+---
+
+## 🚀 Featured Projects
+
+### 1. 📊 FP Project
+A web development project built using HTML and related frontend technologies.
+
+- 🔗 **GitHub:** [FP_Project](https://github.com/YRMESHRAM/FP_Project)
+- 🌐 **Live Demo:** [View Project](https://yrmeshram.github.io/FP_Project/)
+
+### 2. 🤖 AI Dataset Generation & Labeling Tool
+An AI-powered, browser-based platform for image analysis and automatic dataset labeling.
+
+- **Tech Stack:** React, TypeScript, Vite, TensorFlow.js, MobileNet v2, Tailwind CSS
+- 🔗 **GitHub:** [AI_Dataset_Labeling](https://github.com/YRMESHRAM/AI_Dataset_Labeling)
+
+### 3. 🏫 Campus Connect — Smart Campus Navigation
+A responsive campus navigation application that helps users search for campus departments, faculty cabins, and classrooms.
+
+- **Tech Stack:** React, TypeScript, Vite, CSS
+- 🔗 **GitHub:** [Campus_Connect](https://github.com/YRMESHRAM/Campus_Connect)
+- 🌐 **Live Demo:** [Open Campus Connect](https://campus-connect-am4w.onrender.com/)
+
+### 4. 🏥 Appointment Booking System
+A healthcare application concept for patient registration, doctor appointments, and managing medical history.
+
+- **Planned Features:** Appointment booking, patient records, doctor access, and prescription information
+- 🔗 **GitHub:** [Appoinment_Booking](https://github.com/YRMESHRAM/Appoinment_Booking)
+
+### 5. 🩺 CampusCare
+A campus-focused project available in my GitHub repositories.
+
+- 🔗 **GitHub:** [campuscare](https://github.com/YRMESHRAM/campuscare)
+
+### 6. 💰 Expense Management System — FinTrack
+A personal finance application for managing expenses and tracking spending.
+
+- **Features:** Add, edit, and delete expenses; filter expenses by time period; review spending through a user-friendly interface.
+- 🔗 **GitHub:** [expence_managment](https://github.com/YRMESHRAM/expence_managment)
+- 🌐 **Live Demo:** [Open FinTrack](https://fintrack-expense-management.onrender.com/)
+
+---
+
+## 💻 Other Projects
+
+| Project | Description | Link |
+|---|---|---|
+| 🎮 AI Tic-Tac-Toe | Tic-Tac-Toe game with AI functionality | [GitHub](https://github.com/YRMESHRAM/AI_tic-tac-toe) |
+| 🔄 Convertify | Unit converter web application | [Live Demo](https://yrmeshram.github.io/Convertify/) |
+| 🎬 Movie Ticket Booking | Movie ticket booking application | [GitHub](https://github.com/YRMESHRAM/Movie_Ticket_Booking) |
+
+---
+
+## 📈 GitHub Overview
+
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=YRMESHRAM&color=blue&style=flat-square)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YRMESHRAM)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YRMESHRAM&layout=compact&theme=github_dark)
+
+---
+
+## 🎯 Current Learning Goals
+
+- Building scalable full-stack applications
+- Improving React.js and backend development skills
+- Learning AI/ML model development and deployment
+- Strengthening data structures, algorithms, and problem-solving
+- Writing clean, maintainable, and efficient code
+
+---
+
+## 🎮 Hobbies & Interests
+
+🎮 Gaming • 🎵 Listening to Music • 🎬 Watching Movies & Anime • 🏍️ Bike Riding
+
+---
+
+## 🤝 Connect With Me
+
+- 💻 **GitHub:** [@YRMESHRAM](https://github.com/YRMESHRAM)
+- 💼 **LinkedIn:** [Add your LinkedIn profile URL](https://www.linkedin.com/)
+- 📧 **Email:** Add your professional email address
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
